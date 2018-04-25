@@ -208,3 +208,4 @@ const rootReducer = combineReducers({books, recommendedBooks})
 + [Implementing Combine Reducers from Scratch](https://egghead.io/lessons/javascript-redux-implementing-combinereducers-from-scratch)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/redux-combine-reducers-lab'>Redux Combine Reducers Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Redux Combine Reducers Lab</p>
